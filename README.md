@@ -1,4 +1,4 @@
-Coding Activity in the last week 🤓
+My Coding Activity in WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
