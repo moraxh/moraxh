@@ -15,4 +15,5 @@ jobs:
           BLOCKS: =>
           IGNORED_LANGUAGES: YAML JSON TOML
           SHOW_TOTAL: true
+          TIME_RANGE: all_time
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
