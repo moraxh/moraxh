@@ -1,3 +1,4 @@
+Coding Activity in the last week 🤓
 <!--START_SECTION:waka-->
 
 ```txt
