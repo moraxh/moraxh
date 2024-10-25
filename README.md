@@ -1,4 +1,4 @@
-My Coding Activity in WakaTime
+💻 My Coding Activity in WakaTime
 <!--START_SECTION:waka-->
 
 ```txt
