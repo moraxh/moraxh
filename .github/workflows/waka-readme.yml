@@ -18,3 +18,8 @@ jobs:
           SHOW_TOTAL: true
           TIME_RANGE: all_time
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMITTER_NAME: Jorge Mora
+          COMMITTER_EMAIL: jorgemorah671@gmail.com
+          AUTHOR_NAME: Jorge Mora
+          AUTHOR_EMAIL: jorgemorah671@gmail.com
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
