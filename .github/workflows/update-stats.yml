@@ -12,9 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          COMMIT_BY_ME: True
-          COMMIT_USERNAME: Jorge Mora
-          COMMIT_EMAIL: jorgemorah671@gmail.com
+          COMMIT_BY_ME: False
           SHOW_UPDATED_DATE: True
           SHOW_LINES_OF_CODE: True
           SHOW_CODE_TOTAL_TIME: True
